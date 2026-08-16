@@ -6,4 +6,4 @@
 1. https://akairosu.vercel.app/
 2. https://app.kadakareer.com/signup
 3. https://www.kadakareer.com/get-involved
-4. https://cashewpillar.github.io/imago/finance.html
+4. https://cashewpillar.github.io/imago/savings.html
